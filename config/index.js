@@ -27,7 +27,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ofoM-5n6frBerlsKfun5K6-VipfY",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "M5Mnjm8SJ1GCs2V2cVDmr7Yuyj440QKbBK0WOZwD-D4",
+      useTemplateId: "12nBKCKzsQfCq5Yn69PmbdsOyLqhkXOWSHEr7RvPMX0",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -37,7 +37,7 @@ export const config = {
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
       horoscopeDateType: '今日',
       // 他点击详情后跳转的页面,你可以设置成微博的热榜，也可以设置成其他，网址一定要填对；不填对也没关系，随便你，会打不开而已。
-      openUrl: "https://wangxinleo.cn",
+      openUrl: "https://m.weibo.cn/",
       // 专属节日提醒，如果你在这里填写了节日提醒，就不会执行FESTIVALS的提醒了, 和FESTIVALS的配置方法相同，可以往下查看，我这里就不重复写了
       festivals: [
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
@@ -72,7 +72,7 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: "	riL7hnKbETMydarSsc1Yv-IUvHMWWvxDpknZk3KFgtY	",
+  CALLBACK_TEMPLATE_ID: "riL7hnKbETMydarSsc1Yv-IUvHMWWvxDpknZk3KFgtY",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
