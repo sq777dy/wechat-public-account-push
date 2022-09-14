@@ -70,7 +70,7 @@ export const config = {
     {
       name: "刘志祥",
       id: "ofoM-5r3AS16yw4n1A0Nz3x8R114",
-      useTemplateId: "hvCVXkk7o78m1cJrhIJF82FmUxSPQYS9nUXxS80uau0",
+      useTemplateId: "KI-bDRV7-i8J0izSghDFUhs9PkUTEAyGqxNIhZPDoHo",
       province: "江苏",
       city: "苏州",
       horoscopeDate: '06-16',
