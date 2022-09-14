@@ -68,7 +68,6 @@ export const config = {
         {"keyword": "love_day", date: "2021-12-01"},
       ]
     },
-     },
     {
       name: "刘志祥",
       id: "ofoM-5r3AS16yw4n1A0Nz3x8R114",
