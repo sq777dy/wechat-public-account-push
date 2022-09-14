@@ -23,11 +23,11 @@ export const config = {
   USERS: [
     {
       // 想要发送的人的名字
-      name: "宝贝0",
+      name: "周立琳宝贝",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "ofoM-5n6frBerlsKfun5K6-VipfY",
+      id: "ofoM-5m_nNjIF8oJW6ejOwsOQjWI",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "12nBKCKzsQfCq5Yn69PmbdsOyLqhkXOWSHEr7RvPMX0",
+      useTemplateId: "hvCVXkk7o78m1cJrhIJF82FmUxSPQYS9nUXxS80uau0",
       // 所在省份
       province: "江苏",
       // 所在城市
@@ -52,16 +52,35 @@ export const config = {
       ]
     },
     {
-      name: "老婆1",
-      id: "",
-      useTemplateId: "",
-      province: "",
-      city: "",
-      horoscopeDate: '',
-      horoscopeDateType: '',
-      openUrl: "https://wangxinleo.cn",
-      festivals: [],
-      customizedDateList: []
+      name: "谈丞宝贝",
+      id: "ofoM-5n6frBerlsKfun5K6-VipfY",
+      useTemplateId: "hvCVXkk7o78m1cJrhIJF82FmUxSPQYS9nUXxS80uau0",
+      province: "江苏",
+      city: "盐城",
+      horoscopeDate: '12-26',
+      horoscopeDateType: '今日',
+      openUrl: "https://m.weibo.cn/",
+      festivals: [ {"type": "生日", "name": "谈丞宝贝", "year": "2001", "date": "12-26", isShowAge: true},],
+      customizedDateList: [ // 来到这个世界的日子
+        {"keyword": "BIR_day", date: "2001-12-26"},
+        // 恋爱纪念日
+        {"keyword": "love_day", date: "2021-12-01"},]
+    },
+     },
+    {
+      name: "刘志祥",
+      id: "ofoM-5r3AS16yw4n1A0Nz3x8R114",
+      useTemplateId: "hvCVXkk7o78m1cJrhIJF82FmUxSPQYS9nUXxS80uau0",
+      province: "江苏",
+      city: "苏州",
+      horoscopeDate: '06-16',
+      horoscopeDateType: '今日',
+      openUrl: "https://www.bilibili.com/video/BV1RJ41177XR?spm_id_from=333.999.0.0",
+      festivals: [ {"type": "生日", "name": "刘志祥", "year": "2003", "date": "06-16", isShowAge: true},],
+      customizedDateList: [ // 来到这个世界的日子
+        {"keyword": "BIR_day", date: "2003-06-16"},
+        // 毕业纪念日
+        {"keyword": "BY_day", date: "2021-06-20"},]
     },
     // 你可以不断按格式往下增加
     // ...
