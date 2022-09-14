@@ -60,11 +60,13 @@ export const config = {
       horoscopeDate: '12-26',
       horoscopeDateType: '今日',
       openUrl: "https://m.weibo.cn/",
-      festivals: [ {"type": "生日", "name": "谈丞宝贝", "year": "2001", "date": "12-26", isShowAge: true},],
+      festivals: [ {"type": "生日", "name": "谈丞宝贝", "year": "2001", "date": "12-26", isShowAge: true},
+      ],
       customizedDateList: [ // 来到这个世界的日子
         {"keyword": "BIR_day", date: "2001-12-26"},
         // 恋爱纪念日
-        {"keyword": "love_day", date: "2021-12-01"},]
+        {"keyword": "love_day", date: "2021-12-01"},
+      ]
     },
      },
     {
@@ -76,11 +78,13 @@ export const config = {
       horoscopeDate: '06-16',
       horoscopeDateType: '今日',
       openUrl: "https://www.bilibili.com/video/BV1RJ41177XR?spm_id_from=333.999.0.0",
-      festivals: [ {"type": "生日", "name": "刘志祥", "year": "2003", "date": "06-16", isShowAge: true},],
+      festivals: [ {"type": "生日", "name": "刘志祥", "year": "2003", "date": "06-16", isShowAge: true},
+      ],
       customizedDateList: [ // 来到这个世界的日子
         {"keyword": "BIR_day", date: "2003-06-16"},
         // 毕业纪念日
-        {"keyword": "BY_day", date: "2021-06-20"},]
+        {"keyword": "BY_day", date: "2021-06-20"},
+      ]
     },
     // 你可以不断按格式往下增加
     // ...
