@@ -31,7 +31,7 @@ export const config = {
       // 所在省份
       province: "江苏",
       // 所在城市
-      city: "盐城",
+      city: "昆山",
       // 新历生日, 仅用作获取星座运势, 格式必须
       horoscopeDate: '03-08',
       // 获取什么时候的星座运势，可选：['今日', '明日', '本周', '本月', '今年'], 留空则随机
@@ -56,7 +56,7 @@ export const config = {
       id: "ofoM-5n6frBerlsKfun5K6-VipfY",
       useTemplateId: "be_Ntq7XtqTG5z7HN8_0OtGKtGgADNxpEpngcra6gKg",
       province: "江苏",
-      city: "盐城",
+      city: "常州",
       horoscopeDate: '12-26',
       horoscopeDateType: '今日',
       openUrl: "https://m.weibo.cn/",
@@ -73,7 +73,7 @@ export const config = {
       id: "ofoM-5r3AS16yw4n1A0Nz3x8R114",
       useTemplateId: "KI-bDRV7-i8J0izSghDFUhs9PkUTEAyGqxNIhZPDoHo",
       province: "江苏",
-      city: "苏州",
+      city: "常州",
       horoscopeDate: '06-16',
       horoscopeDateType: '今日',
       openUrl: "https://www.bilibili.com/video/BV1RJ41177XR?spm_id_from=333.999.0.0",
